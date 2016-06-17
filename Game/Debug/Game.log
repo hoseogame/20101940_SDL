@@ -1,0 +1,15 @@
+﻿  PlayState.cpp
+c:\users\user\desktop\20101940 이하람(sdl)\game\playstate.cpp(26): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\20101940 이하람(sdl)\game\playstate.cpp(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\20101940 이하람(sdl)\game\playstate.cpp(73): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\20101940 이하람(sdl)\game\playstate.cpp(90): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\20101940 이하람(sdl)\game\playstate.cpp(104): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\user\desktop\20101940 이하람(sdl)\game\playstate.cpp(105): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\user\desktop\20101940 이하람(sdl)\game\playstate.cpp(106): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\user\desktop\20101940 이하람(sdl)\game\playstate.cpp(107): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\user\desktop\20101940 이하람(sdl)\game\playstate.cpp(109): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\user\desktop\20101940 이하람(sdl)\game\playstate.cpp(110): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\user\desktop\20101940 이하람(sdl)\game\playstate.cpp(111): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\user\desktop\20101940 이하람(sdl)\game\playstate.cpp(112): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Game.vcxproj -> C:\Users\user\Desktop\20101940 이하람(SDL)\Game\Debug\Game.exe
+  Game.vcxproj -> C:\Users\user\Desktop\20101940 이하람(SDL)\Game\Debug\Game.pdb (Partial PDB)
